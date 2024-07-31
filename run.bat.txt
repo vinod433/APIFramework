@@ -1,0 +1,2 @@
+cd C:\Users\sujat\eclipse-workspace\APIFramework
+mvn test
